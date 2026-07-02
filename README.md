@@ -1,4 +1,5 @@
 # Alan 🤖✨
+<img width="2406" height="1374" alt="image" src="https://github.com/user-attachments/assets/1abae21c-3c1d-4fa9-8f13-4c0c9fcc4fcd" />
 
 **Alan** is a smart and modern mobile/web app built using **FlutterFlow**.  
 It provides a clean experience for users to explore the app, create an account, log in, and navigate through different pages smoothly.
@@ -58,3 +59,6 @@ alan/
 ├── pubspec.yaml
 ├── analysis_options.yaml
 └── README.md
+
+
+
